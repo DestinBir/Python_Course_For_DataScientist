@@ -22,7 +22,9 @@ Bienvenue dans ce dépôt GitHub qui accompagne une formation accélérée de 2 
 - `scikit-learn` (intro)
 - `linearmodels` (optionnel, pour données panel)
 
-## ✍️ Auteur
-Formation préparée par **Destin Biringanine**  
-Contact : destinbiringanine@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/destin-biringanine-62654822b/)
+## 📂 Fichiers Importants
+- PROJETS [voir](project_list.md)
+- PROGRAMME [voir](timeline.md)
+- INTRO [voir](INTRO.md)
+
+> Formation encadrée par **Destin Biringanine** – [GitHub](https://github.com/DestinBir) | [Email](mailto:destinbiringanine@gmail.com) | [LinkedIn](https://www.linkedin.com/in/destin-biringanine-62654822b/)
