@@ -1,4 +1,4 @@
-# Formation : Statistique avec Python pour data scientist
+# Formation : Statistique avec Python pour analystes en migration
 
 Bienvenue dans ce dépôt GitHub qui accompagne une formation accélérée de 2 mois à raison de 2 séances par semaine, destinée aux data scientist souhaitant transférer leurs compétences vers Python pour l’analyse de données statistiques.
 
