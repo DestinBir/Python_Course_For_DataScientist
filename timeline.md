@@ -2,8 +2,8 @@
 
 Cette formation de 2 mois est conçue pour les analystes, chercheurs et data scientists ayant une bonne base statistique et souhaitant migrer de STATA, SPSS, Excel ou R vers Python.
 
-- **Durée :** 8 semaines
-- **Rythme :** 2 séances par semaine (soit 16 sessions)
+- **Durée :** 8 semaines  
+- **Rythme :** 2 séances par semaine (soit 16 sessions)  
 - **Format :** Cours guidés + exercices + mini-projets
 
 ---
@@ -48,18 +48,18 @@ Cette formation de 2 mois est conçue pour les analystes, chercheurs et data sci
 
 ---
 
-## 📍 Semaine 6 : Séries temporelles
+## 📍 Semaine 6 : Données spatiales (cartographiques)
 | Séance | Thème | Objectifs |
 |--------|-------|-----------|
-|11 | 📅 Séries temporelles (1) | Index temporel, slicing par date, resampling |
-|12 | 📈 Séries temporelles (2) | Moyennes mobiles, différenciation, autocorrélation |
+|11 | 🗺️ Introduction à `geopandas` | Chargement de données géographiques (shapefiles, GeoJSON), fusion avec `pandas`, affichage |
+|12 | 🧭 Visualisation interactive avec `folium` et `plotly` | Cartes choroplèthes, couches multiples, marqueurs, interactions spatiales |
 
 ---
 
 ## 📍 Semaine 7 : Machine Learning de base
 | Séance | Thème | Objectifs |
 |--------|-------|-----------|
-|13 | 🤖 Intro à `scikit-learn` | `train_test_split`, régression simple, évaluation |
+|13 | 🤖 Introduction à `scikit-learn` | `train_test_split`, régression simple, métriques de performance |
 |14 | ⚗️ Mini-projet ML | Classification ou régression sur données réelles |
 
 ---
@@ -67,15 +67,15 @@ Cette formation de 2 mois est conçue pour les analystes, chercheurs et data sci
 ## 📍 Semaine 8 : Données avancées et clôture
 | Séance | Thème | Objectifs |
 |--------|-------|-----------|
-|15 | 🗃️ Données de panel (optionnel) | Effets fixes, aléatoires avec `linearmodels` |
+|15 | 🗃️ Données de panel (optionnel) | Effets fixes, effets aléatoires avec `linearmodels` |
 |16 | 🧾 Présentations finales | Soutenance des mini-projets + feedback général |
 
 ---
 
 ## 📦 À venir dans le dépôt :
-- 📁 `exercises/` : notebooks pour chaque séance
-- 📁 `datasets/` : jeux de données utilisés
-- 📁 `project_list.md` : mini-projets proposés
+- 📁 `exercises/` : notebooks pour chaque séance  
+- 📁 `datasets/` : jeux de données utilisés  
+- 📁 `project_list.md` : mini-projets proposés  
 - 📝 `README.md` : présentation globale de la formation
 
 ---
