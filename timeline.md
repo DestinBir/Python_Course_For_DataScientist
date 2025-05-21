@@ -1,4 +1,4 @@
-# 🗓️ Timeline de la formation — Statistique avec Python
+# Timeline de la formation — Statistique avec Python
 
 Cette formation de 2 mois est conçue pour les analystes, chercheurs et data scientists ayant une bonne base statistique et souhaitant migrer de STATA, SPSS, Excel ou R vers Python.
 
@@ -8,7 +8,7 @@ Cette formation de 2 mois est conçue pour les analystes, chercheurs et data sci
 
 ---
 
-## 📍 Semaine 1 : Introduction
+##  Semaine 1 : Introduction
 | Séance | Thème | Objectifs |
 |--------|-------|-----------|
 | 1 | 🐍 Découverte de Python pour analystes | Variables, types, structures (listes, dictionnaires), introduction à Jupyter/Colab |
