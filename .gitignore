@@ -1,0 +1,23 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore output and temporary files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore Jupyter Notebook metadata and autosave files
+*.nbconvert.ipynb
+*.nbgrader.ipynb
+*.nb.html
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
